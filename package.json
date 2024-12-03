@@ -17,6 +17,14 @@
     "search"
   ],
   "author": "nobrain",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MinhoKang/react-bi-infinite-scroll"
+  },
+  "bugs": {
+    "url": "https://github.com/MinhoKang/react-bi-infinite-scroll/issues",
+    "email": "rkdalsgh0106@naver.com"
+  },
   "license": "MIT",
   "dependencies": {
     "clsx": "^2.1.1",
