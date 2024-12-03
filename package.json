@@ -1,0 +1,35 @@
+{
+  "name": "react-bi-infinite-scroll",
+  "version": "1.0.0",
+  "description": "A versatile bidirectional infinite scroll library for React, providing seamless top and bottom loading, efficient search highlighting, and scroll position management. Perfect for chat applications and dynamic content rendering.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "infinite",
+    "scroll",
+    "bi-directional",
+    "bi-infinite-scroll",
+    "reverse-infinite-scroll",
+    "chat",
+    "highlight",
+    "search"
+  ],
+  "author": "nobrain",
+  "license": "MIT",
+  "dependencies": {
+    "clsx": "^2.1.1",
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0",
+    "tailwind-merge": "^2.5.5"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1"
+  }
+}
